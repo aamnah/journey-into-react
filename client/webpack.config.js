@@ -40,5 +40,5 @@ module.exports = {
     ]
   },
 
-  plugins: [ htmlWebpackPlugin, extractCSS]
+  plugins: [ htmlWebpackPlugin, extractCSS ]
 }
